@@ -5,11 +5,6 @@
 
 - [RGB DJI Drone](/#rgb)
 - [SWIR HySpex VS620](/#swir)
-    - False Color: Reflectance bands (2200 nm, 2250 nm, 2350 nm) sensitive to clay, mica, carbonate and amphibole absorbtions
-    - MWL: Minimum Wavelength Mapping showing the position of the deepest absorption feature around 2200 nm (AlOH). Note how this highlights the clay rich argillic zone on top which contains pyrite and is the main source of acid mine drainage in the region.
-![](img/MWL_SWIR.png)
-    - MNF: Minimum Noise Fractions (2,3,4)
-![Reflectance spectra at selected locations](img/Hyspex_spectra.png)
 - [LWIR Telops Nano](/#lwir)
     - False Color: Emissivity bands (9615 nm, 8928 nm, 11538 nm) potentially highlighting intermediate, quartz-rich and carbonate -rich rocks. Note how the carbonate-rich road gravel lights up in yellow.
     - MWL: Minimum Wavelength Mapping showing the position of the deepest absorption feature between 8000 and 10000 nm (quartz feature), which can hint towards acidic (shorter wavelengths) or intermediate/basic rock composition (longer wavelengths).
