@@ -3,9 +3,9 @@
 
 ## Pointcloud Index
 
-- [RGB DJI Drone](/#rgb)
-- [SWIR HySpex VS620](/#swir)
-- [LWIR Telops Nano](/#lwir)
+- [RGB DJI Drone](./#rgb)
+- [SWIR HySpex VS620](./#swir)
+- [LWIR Telops Nano](./#lwir)
 
 ## The site: 
 Rosia Poieni is a large, active open-pit copper mine in Romania's Apuseni Mountains, known for being the second-largest copper deposit in Europe. The mine exploits a porphyry copper-gold deposit estimated to contain over one billion tonnes of ore, primarily a mix of copper and iron sulphides like chalcopyrite and pyrite. The operation involves a multi-bench quarry for extraction, with a significant environmental impact, particularly concerning the highly acidic and toxic water discharges from the mine. 
